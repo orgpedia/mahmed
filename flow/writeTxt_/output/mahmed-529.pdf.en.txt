@@ -18,7 +18,6 @@ GOVERNMENT DECISION: Padma Bhushan Vasantdada Patil Government Medical Hospital,
 Administrative approval is granted subject to the following conditions:
 # Page 2
 Government Resolution No: Vahan-2021/ PR No.112/ PRISA-1
-| a. Name of the machine Cost per unit Total cost
 ----------------------------------------------------------------------------------------------------------------------------------
 |       |
 | A.A.  |                             |   | The name of the device |           |   | Nag |   |   | The price per |   |   | Total cost |

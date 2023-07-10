@@ -19,7 +19,6 @@ Government Resolution, Department of Medical Education and Pharmaceuticals No. 2
 GOVERNMENT DECISION: The Government Medical College and Hospital, Nagpur, vide letter dated 25.02.2021, is being given administrative approval for the purchase of an Ambulance for the following table price of Rs. 8,00,000/- (Rupees Eight Lakh only) from the grant sanctioned under the MLA Local Area Development Programme for the purpose of examination and transportation of patients to and from the hospital.
 # Page 2
 GOVERNMENT DECISION NO.: GHN-2021/ P.S.No.148/ P.S.-1
-| a. Name of the machine Cost per unit Total cost
 ---------------------------------------------------------------------------------------------------------------
 | A.A.  |           |   | The name of the device |          |   | Nag |   |   | The price per |   |   | Total cost |
 | 1     | ambulance | 1 | 8,00,000               | 8,00,000 |
