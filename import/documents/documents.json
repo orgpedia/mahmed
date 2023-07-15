@@ -10381,5 +10381,83 @@
     "name": "mahmed-861.pdf",
     "num_pages": 3,
     "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/MedicalEdu/15-Jul-2023/202307071306035413.pdf": {
+    "code": "202307071306035413",
+    "crawl_dir": "15-Jul-2023",
+    "date": "07-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-15T14:44:19.965803",
+    "size_kb": "343",
+    "text": "Administrative Approval For Establishment of E- Digital Library at Government Medical Dental Colleges.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307071306035413.pdf",
+    "name": "mahmed-863.pdf",
+    "num_pages": 3,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/MedicalEdu/15-Jul-2023/202307131504010613.pdf": {
+    "code": "202307131504010613",
+    "crawl_dir": "15-Jul-2023",
+    "date": "13-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-15T14:43:59.598342",
+    "size_kb": "953",
+    "text": "Regarding providing vehicles on rent basis for office work of the Principal, Government Medical College and Hospital, Satara, Ratnagiri, Miraj.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307131504010613.pdf",
+    "name": "mahmed-864.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/MedicalEdu/15-Jul-2023/202307141147177513.pdf": {
+    "code": "202307141147177513",
+    "crawl_dir": "15-Jul-2023",
+    "date": "14-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-15T14:43:54.196185",
+    "size_kb": "1064",
+    "text": "Establishment of new Government Medical Colleges with student strength each 100 affiliated 430 bedded hospital at Palghar, Thane, jalna, Amaravati, Buldhana, Washim, Wardha and Gadchiroli.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307141147177513.pdf",
+    "name": "mahmed-865.pdf",
+    "num_pages": 10,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/MedicalEdu/15-Jul-2023/202307141212018313.pdf": {
+    "code": "202307141212018313",
+    "crawl_dir": "15-Jul-2023",
+    "date": "14-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-15T14:43:48.687524",
+    "size_kb": "1055",
+    "text": "Setting up a committee to develop an independent online system to make available reserved beds in charity hospitals for poor and impecunious patients in a transparent manner.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307141212018313.pdf",
+    "name": "mahmed-866.pdf",
+    "num_pages": 2,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/MedicalEdu/15-Jul-2023/202307141510270513.pdf": {
+    "code": "202307141510270513",
+    "crawl_dir": "15-Jul-2023",
+    "date": "11-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-15T14:44:05.372923",
+    "size_kb": "1232",
+    "text": "Regarding permission to start generic medicine shops in Government Medical/Dental Colleges and Hospitals.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307141510270513.pdf",
+    "name": "mahmed-867.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
+  },
+  "/import/websites/gr.maharashtra.gov.in/MedicalEdu/15-Jul-2023/202307141510454813.pdf": {
+    "code": "202307141510454813",
+    "crawl_dir": "15-Jul-2023",
+    "date": "11-07-2023",
+    "dept": "Medical Education and Drugs Department",
+    "download_time": "2023-07-15T14:44:09.898397",
+    "size_kb": "500",
+    "text": "NIC in Government Medical/Dental/Ayurveda Colleges and Hospitals. Regarding approving the implementation of Health Service Management System (HMIS) developed by NextGen e-hospital.",
+    "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202307141510454813.pdf",
+    "name": "mahmed-868.pdf",
+    "num_pages": 4,
+    "large_image_idxs": []
   }
 }
